@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+#logo{
+    display: inline;
+}
+ul{
+    display: inline;
+}
+ul li{
+    display: inline-block;
+    display: inline;
+}
+.exp{
+    background-color: black;
+    color: white;
+}
+.Send{
+    background-color: blue;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    margin: auto;
+}
+#hero{
+    background-color: green;
+}
+section{
+    background-color: greenyellow;
+}
+
+input{
+    width: 100%;
+}
+.number{
+    border: 10px solid aqua;
+}
+#About{
+    background-color: gainsboro;
+}
